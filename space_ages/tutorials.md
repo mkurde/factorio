@@ -6,11 +6,31 @@
 
 ## Vulcanus
 
-## Starter Pack
+### Starter Pack
+
+Bring first time to Vulcanus:
 
 - Belts + Inserters
 - Power Poles
-- 
+- Solar + Accu
+- Steam Turbines
+- Furnaces
+- Pumpjacks
+- Chemical Plants
+- Tank + Turrents
+- Ammo + Shells
+- Construction Robots
+- Cargo Landing pad
+
+First time back
+
+- Rocket Silo
+- All parts for at least one Rocket
+
+Warfare
+
+- Poisen / Follower bots / Urainum Shells
+
 
 
 ### Videos
