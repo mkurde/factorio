@@ -2,7 +2,17 @@
 
 ## Travel
 
-- [https://www.youtube.com/watch?v=gqwYq7-FGsg](Factorio Space Age Tutorial : 🌌 Building Space Platforms & Planet Travel!)
+- Xterminator
+    - [https://www.youtube.com/watch?v=gqwYq7-FGsg](Factorio Space Age Tutorial : 🌌 Building Space Platforms & Planet Travel!)
+- JDPlays
+    - [https://www.youtube.com/watch?v=Qniwc6R6d2Q](Ship Design 101: Space GUNS ⚙️ Factorio Space Age 🏭 Tutorial, Walkthrough
+)
+    - [https://www.youtube.com/watch?v=-OS6fIxj2wM](Ship Design 101: Storage in Space *UNLIMITED STORAGE* ⚙️ Factorio Space Age 🏭 Tutorial, Walkthrough
+)
+    - [https://www.youtube.com/watch?v=7zzbTMZ1Hs8](Ship Design 101: Power in Space ⚙️ Factorio Space Age 🏭 Tutorial, Walkthrough
+)
+
+
 
 ## Vulcanus
 
